@@ -29,7 +29,7 @@ except:
 	print("API_TOKEN cannot be retrieved from config.py")
 
 
-DEFAULT_REPLY = "Hmm, not sure I can do with that. Try `help`"
+DEFAULT_REPLY = "Hmm, not sure I can help with that. Try `help`"
 
 PLUGINS = [
 	'mybot',
